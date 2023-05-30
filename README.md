@@ -1,1 +1,2 @@
 # CNN-for-predicting-a-chromatic-number
+In this project, I have created a convolutional neural network which predicts chromatic number of a graph. Graphs are represented in two file, in file graphs.txt we have a 1000 graphs, each one of them represented with 3 variables. First is number of nodes (n), second one is lenghth of arguments (m), and third one is m arguments that tells us which nodes are connected. For example, if among arguments is number 4 that tells us that node 1 is connected with node 5, node 2 with node 6 etc. 
